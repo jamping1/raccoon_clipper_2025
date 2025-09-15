@@ -1,7 +1,7 @@
 # raccoon_clipper_2025
 Новый CLIPPER BTC 2025
 
-# ПО СОСТОЯНИЮ НА 13 ОКТЯБРЯ 2025 ГОДА ОН НЕ РАБОТАЕТ, я НЕ БУДУ ЕГО ИСПРАВЛЯТЬ
+
 
 # raccoon crypto clipper написан на python
 
