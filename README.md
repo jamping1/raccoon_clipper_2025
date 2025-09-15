@@ -106,7 +106,7 @@ discord: hyperborean__ (БОЛЬШЕ НЕТ, ПОТЕРЯН ДОСТУП К АК
 - pip install pyarmor
 - pip install pyinstaller
 
-
+![img1](https://i.postimg.cc/t4gSxFfv/git.png) (https://git-scm.com/downloads)
 
 
 
