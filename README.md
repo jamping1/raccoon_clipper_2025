@@ -94,3 +94,26 @@ python main.pyw or double click main.pyw
 # связаться
 discord: hyperborean__ (БОЛЬШЕ НЕТ, ПОТЕРЯН ДОСТУП К АККАУНТУ)
 
+# установить
+- pip install clipboard==0.0.4
+- pip install CTkToolTip==0.8
+- pip install customtkinter==5.2.2
+- pip install hPyT==1.3.2
+- pip install Pillow==10.4.0
+- pip install pyperclip==1.8.2
+- pip install pywin32==306
+- pip install Requests==2.32.3
+- pip install pyarmor
+- pip install pyinstaller
+
+
+
+
+
+
+
+
+
+
+
+
