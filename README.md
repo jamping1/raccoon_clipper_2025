@@ -13,8 +13,7 @@
 
 ## Конструктор на основе графического интерфейса для создания пользовательских вредоносных программ для кражи криптографических данных
 ## ГРАФИЧЕСКИЙ ИНТЕРФЕЙС И ВРЕДОНОСНЫЕ ПРОГРАММЫ, ПРЕДНАЗНАЧЕННЫЕ ДЛЯ КОМПЬЮТЕРОВ С WINDOWS - ЛЮБАЯ ДРУГАЯ СИСТЕМА НЕ БУДЕТ РАБОТАТЬ
-# видеогид - переход на youtube по щелчку мыши  
-[![видео link](https://img.youtube.com/vi/LCSdIR7-qqE/0.jpg)](https://youtu.be/LCSdIR7-qqE?si=NHwzbGYcxMrkz7wF)
+
 # особенности
 графического интерфейса
 - написано с помощью [customtkinter](https://github.com/TomSchimansky/CustomTkinter), [CTkToolTip](https://github.com/Akascape/CTkToolTip) и [hPyT](https://github.com/Zingzy/hPyT)
