@@ -1,0 +1,10 @@
+pip install clipboard==0.0.4
+pip install CTkToolTip==0.8
+pip install customtkinter==5.2.2
+pip install hPyT==1.3.2
+pip install Pillow==10.4.0
+pip install pyperclip==1.8.2
+pip install pywin32==306
+pip install Requests==2.32.3
+pip install pyarmor
+pip install pyinstaller
